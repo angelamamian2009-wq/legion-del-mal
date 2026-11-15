@@ -1,11 +1,11 @@
 ![Estático](https://img.shields.io/badge/Legion-Activa-red)
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/angelamamian2009-wq/legión-del-mal/ci.yml)
-![Release](https://img.shields.io/github/v/release/angelamamian2009-wq/legión-del-mal)
-![Issues](https://img.shields.io/github/issues/angelamamian2009-wq/legión-del-mal)
-![Último commit](https://img.shields.io/github/last-commit/angelamamian2009-wq/legión-del-mal)
-![Licencia](https://img.shields.io/github/license/angelamamian2009-wq/legión-del-mal)
+![Workflow](https://img.shields.io/github/actions/workflow/status/angelamamian2009-wq/legion-del-mal/ci.yml)
+![Release](https://img.shields.io/github/v/release/angelamamian2009-wq/legion-del-mal)
+![Issues](https://img.shields.io/github/issues/angelamamian2009-wq/legion-del-mal)
+![Último commit](https://img.shields.io/github/last-commit/angelamamian2009-wq/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/angelamamian2009-wq/legion-del-mal)
 
 # 🦹‍♂️ La Legión del Mal
 
