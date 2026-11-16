@@ -7,18 +7,12 @@
 ![Último commit](https://img.shields.io/github/last-commit/angelamamian2009-wq/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/angelamamian2009-wq/legion-del-mal?&cacheSeconds=60)
 
-
-# 🦹‍♂️ La Legión del Mal - desde remoto y local
+# 🦹‍♂️ La Legión del Mal - Desde local
  
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-<<<<<<< HEAD
-## ¿Quiénes somos? - remoto y local
-=======
-## ¿Quiénes somos? - desde remoto y local
->>>>>>> 83351c5 (fix: solventar conflicto)
-
+## ¿Quiénes somos? - Remoto y local
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
 ## Estructura de la organización!!
